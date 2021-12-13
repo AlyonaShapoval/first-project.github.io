@@ -1,0 +1,21 @@
+body{
+    background: linear-gradient(45deg, #9890e3, #b1f4cf);
+}
+table{
+margin: auto;
+font-size: 50px;
+border: burlywood solid 3px;
+border-collapse: collapse;
+}
+img{
+    width: 400px;
+    height: 300px;
+    border-radius: 15px;
+}
+td{
+    border: tan solid 2px;
+ }
+ th:hover,td:hover{
+     border: whitesmoke solid 2px;
+     background-color: yellowgreen;
+ }
